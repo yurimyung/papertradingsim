@@ -11,6 +11,8 @@ average purchase cost, input validation, and automated tests. This is an in-memo
 backend with a fixed-price demonstration. It does not fetch market data or persist
 accounts yet. It cannot sell shares or calculate profit and loss yet.
 
+Edit: In progress
+
 ## Run locally
 
 Requires Python 3.11 or later. From this project folder, on Windows PowerShell:
